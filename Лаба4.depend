@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1589201697 source:d:\Данила\Учеба\Языки программирования С++\Лаба4\main.cpp
+	<iostream>
+	"TWList.h"
+	"Twlist.cpp"
+
+1589201981 source:d:\Данила\Учеба\Языки программирования С++\Лаба4\twlist.cpp
+	<iostream>
+	"TWList.h"
+
+1589201697 d:\Данила\Учеба\Языки программирования С++\Лаба4\twlist.h
+	<iostream>
+
+1589201981 d:\Данила\Учеба\Языки программирования С++\Лаба4\twlist.cpp
+	<iostream>
+	"TWList.h"
+
